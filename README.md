@@ -65,7 +65,7 @@ Reliable, secure, and scalable infrastructure management on AWS, Azure, and GCP.
 ---
 
 ## 📝 Our SDLC Lifecycle Model  
-
+1️⃣ Software Development Process (Waterfall)
 ```mermaid
 flowchart LR
 A[Requirement Gathering 📝] --> B[Planning & Feasibility 📋]
@@ -77,13 +77,14 @@ F --> G[Maintenance & Growth 📈]
 ```
 Client Idea → Requirement Analysis → Design → Development → Testing → Deployment → Maintenance
 
+
 ```mermaid
  graph TD
 A[Innovative Solutions] --> B[Happy Clients]
 B --> C[Brand Growth]
 C --> D[Long-Term Partnership]
 ```
-
+2️⃣ Agile Sprint Workflow
 ```mermaid
 flowchart LR
     A[Backlog 📋] --> B[Sprint Planning 🏁]
@@ -95,6 +96,7 @@ flowchart LR
     G --> A
 
 ```
+3️⃣ DevOps CI/CD Pipeline
 ```mermaid
 flowchart LR
     A[Code Commit 💾] --> B[Build 🏗️]
@@ -104,7 +106,7 @@ flowchart LR
     E --> F[Monitoring 📊]
     F --> A
 ```
-
+4️⃣ Feature Development Lifecycle
 ```mermaid
 flowchart TD
     A[Idea 💡] --> B[Requirement Gathering 📄]
@@ -115,7 +117,7 @@ flowchart TD
     F --> G[Feedback 🔄]
     G --> A
 ```
-
+5️⃣ Feature Prioritization Matrix
 ```mermaid
 graph LR
     A[Low Impact / Low Effort] --> B[Do Later]
@@ -123,7 +125,7 @@ graph LR
     A --> E[High Impact / Low Effort] --> F[Quick Win]
     A --> G[High Impact / High Effort] --> H[Major Project]
 ```
-
+6️⃣ Client Onboarding Process
 ```mermaid
 flowchart TD
     A[Initial Contact 📞] --> B[Requirement Meeting 📋]
