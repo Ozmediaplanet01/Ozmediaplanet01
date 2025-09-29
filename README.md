@@ -34,35 +34,22 @@ We combine **innovation, technology, and creativity** to craft powerful digital 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
----
+## 💡 Core Services  
 
-## 💡 Our Services  
-
-### 📱 Cross-Platform App Development  
-We build high-performance apps for iOS, Android, and Web using React Native, Flutter, and modern frameworks.
-
-### 🌐 Web Development  
-Modern, scalable, and responsive websites built with React, Node.js, Django, and Laravel.
-
-### ☁️ SaaS Development  
-Robust, secure, and scalable Software-as-a-Service platforms hosted on reliable cloud infrastructure.
-
-### 🛠️ Product Development  
-From ideation to launch, we transform your concepts into successful digital products.
-
-### 🗂️ CRM Development  
-Smart customer relationship management solutions to streamline operations and boost engagement.
-
-### 🔍 SEO Optimization  
-Data-driven SEO strategies to enhance visibility and improve organic reach.
-
-### 📢 Digital Marketing  
-Creative campaigns that drive growth, engagement, and brand recognition.
-
-### ☁️ Cloud & Hosting Management  
-Reliable, secure, and scalable infrastructure management on AWS, Azure, and GCP.
+| Service | Description |
+|---------|-------------|
+| 📱 **Cross-Platform App Development** | High-performance apps for iOS, Android & Web. |
+| 🌐 **Web Development** | Modern, scalable & responsive websites. |
+| ☁️ **SaaS Development** | Robust software-as-a-service platforms built for scalability & security. |
+| 🛠️ **Product Development** | From ideation to launch, we transform concepts into successful products. |
+| 🗂️ **CRM Development** | Smart customer relationship management solutions. |
+| 🔍 **SEO Optimization** | Data-driven SEO strategies to enhance visibility. |
+| 📢 **Digital Marketing** | Creative campaigns that drive growth & brand recognition. |
+| ☁️ **Cloud & Hosting Management** | Reliable, secure, and scalable infrastructure. |
 
 ---
+
+
 
 ## 📝 Our SDLC Lifecycle Model  
 1️⃣ Software Development Process (Waterfall)
