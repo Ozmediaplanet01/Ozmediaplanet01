@@ -139,15 +139,27 @@ flowchart TD
 
 ```
 
-🤝 Connect With Us
-<p align="center"> <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="tel:+91XXXXXXXXXX"><img src="https://img.shields.io/badge/Phone-007BFF?style=for-the-badge&logo=phone&logoColor=white" /></a> <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://linkedin.com/in/yourlink"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://facebook.com/yourpage"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p>
+---
 
-📍 Address
+## 📌 Connect & Support  
 
-🏢 Indore , M.P. , India 
+<p align="center">
+  <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+91XXXXXXXXXX"><img src="https://img.shields.io/badge/Phone-007BFF?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlink"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/yourpage"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-🌟 Quote
+---
 
-“We don’t just build technology — we build experiences, strategies, and systems that create long-term value.”
+<p align="center">🌟 **“Innovation, Technology & Creativity in Every Line of Code.”** 🌟</p>
 
-<p align="center">⭐ Drop a star on our repos to support our work!</p> <p align="center">© 2025 Oz Media Planet. All Rights Reserved.</p> ```
+<p align="center">
+  ⭐ If you like our work, give us a star on GitHub! ⭐
+</p>
+
+<p align="center">© 2025 **Oz Media Planet**. All Rights Reserved.</p>
+
