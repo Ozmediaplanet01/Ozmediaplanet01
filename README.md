@@ -90,3 +90,9 @@ C --> D[Long-Term Partnership]
 📍 Address
 
 🏢 Indore , M.P. , India 
+
+🌟 Quote
+
+“We don’t just build technology — we build experiences, strategies, and systems that create long-term value.”
+
+<p align="center">⭐ Drop a star on our repos to support our work!</p> <p align="center">© 2025 Oz Media Planet. All Rights Reserved.</p> ```
