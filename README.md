@@ -74,3 +74,7 @@ C --> D[Development 💻]
 D --> E[Testing 🧪]
 E --> F[Deployment 🚀]
 F --> G[Maintenance & Growth 📈]
+
+
+Client Idea → Requirement Analysis → Design → Development → Testing → Deployment → Maintenance
+
