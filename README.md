@@ -141,6 +141,23 @@ flowchart TD
 
 ---
 
+## 📊 Analytics & Service Visuals
+
+### Service Distribution (Illustrative)
+We track KPIs such as Monthly Active Users (MAU), Conversion Rate, Time-to-First-Byte, Error Rate, and Cost-per-Acquisition (CPA). Dashboards and reporting are provided via clients' chosen analytics platforms (Google Analytics, Mixpanel, Datadog).
+
+![Service Distribution](service_distribution.png)
+
+*The illustrative pie chart shows a sample distribution of services — this helps clients prioritize budget and effort.*
+
+---
+
+### Typical Project Phase Duration (Illustrative)
+This bar chart shows the typical average duration of project phases in days.
+
+![Project Phase Duration](phase_duration.png)
+
+
 ## 📌 Connect & Support  
 
 <p align="center">
