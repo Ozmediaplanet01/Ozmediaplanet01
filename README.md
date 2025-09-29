@@ -3,6 +3,14 @@
 <h1 align="center">🌍 Oz Media Planet</h1>
 <h3 align="center">🚀 Building the Future of Digital Innovation</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cross_Platform_Apps-💻-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web_Development-🌐-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SaaS_Development-☁️-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CRM_Development-📊-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SEO_Optimization-🔍-red?style=for-the-badge">
+</p>
+
 ---
 
 ## 📝 About Us  
@@ -28,38 +36,41 @@ We combine **innovation, technology, and creativity** to craft powerful digital 
 
 ---
 
-## 💡 Core Services  
+## 💡 Our Services  
 
-| Service | Description |
-|---------|-------------|
-| 📱 **Cross-Platform App Development** | High-performance apps for iOS, Android & Web. |
-| 🌐 **Web Development** | Modern, scalable & responsive websites. |
-| ☁️ **SaaS Development** | Robust software-as-a-service platforms built for scalability & security. |
-| 🛠️ **Product Development** | From ideation to launch, we transform concepts into successful products. |
-| 🗂️ **CRM Development** | Smart customer relationship management solutions. |
-| 🔍 **SEO Optimization** | Data-driven SEO strategies to enhance visibility. |
-| 📢 **Digital Marketing** | Creative campaigns that drive growth & brand recognition. |
-| ☁️ **Cloud & Hosting Management** | Reliable, secure, and scalable infrastructure. |
+### 📱 Cross-Platform App Development  
+We build high-performance apps for iOS, Android, and Web using React Native, Flutter, and modern frameworks.
+
+### 🌐 Web Development  
+Modern, scalable, and responsive websites built with React, Node.js, Django, and Laravel.
+
+### ☁️ SaaS Development  
+Robust, secure, and scalable Software-as-a-Service platforms hosted on reliable cloud infrastructure.
+
+### 🛠️ Product Development  
+From ideation to launch, we transform your concepts into successful digital products.
+
+### 🗂️ CRM Development  
+Smart customer relationship management solutions to streamline operations and boost engagement.
+
+### 🔍 SEO Optimization  
+Data-driven SEO strategies to enhance visibility and improve organic reach.
+
+### 📢 Digital Marketing  
+Creative campaigns that drive growth, engagement, and brand recognition.
+
+### ☁️ Cloud & Hosting Management  
+Reliable, secure, and scalable infrastructure management on AWS, Azure, and GCP.
 
 ---
-## 📊 Our Process  
 
----
-
-## 📝 Workflow (Flowchart)
+## 📝 Our SDLC Lifecycle Model  
 
 ```mermaid
 flowchart LR
-A[Client Idea 💡] --> B[Planning & Strategy 📋]
-B --> C[Design 🎨]
+A[Requirement Gathering 📝] --> B[Planning & Feasibility 📋]
+B --> C[System Design 🎨]
 C --> D[Development 💻]
 D --> E[Testing 🧪]
 E --> F[Deployment 🚀]
 F --> G[Maintenance & Growth 📈]
-
-graph TD
-A[Strong Foundation] --> B[Innovative Solutions]
-B --> C[Happy Clients]
-C --> D[Brand Growth]
-D --> E[Long-Term Partnership]
-
