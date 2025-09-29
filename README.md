@@ -74,11 +74,8 @@ C --> D[Development 💻]
 D --> E[Testing 🧪]
 E --> F[Deployment 🚀]
 F --> G[Maintenance & Growth 📈]
+```
+Client Idea → Requirement Analysis → Design → Development → Testing → Deployment → Maintenance
 
-
-graph TD
-A[Innovative Solutions] --> B[Happy Clients]
-B --> C[Brand Growth]
-C --> D[Long-Term Partnership]
  
 
