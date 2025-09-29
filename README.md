@@ -35,5 +35,18 @@ We combine **innovation, technology, and creativity** to craft powerful digital 
 
 ---
 
-## 📊 Our Process  
+
+---
+
+## 📝 Workflow (Flowchart)
+
+```mermaid
+flowchart LR
+A[Client Idea 💡] --> B[Planning & Strategy 📋]
+B --> C[Design 🎨]
+C --> D[Development 💻]
+D --> E[Testing 🧪]
+E --> F[Deployment 🚀]
+F --> G[Maintenance & Growth 📈]
+
 
