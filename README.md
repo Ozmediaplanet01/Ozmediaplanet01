@@ -84,6 +84,56 @@ B --> C[Brand Growth]
 C --> D[Long-Term Partnership]
 ```
 
+```mermaid
+flowchart LR
+    A[Backlog 📋] --> B[Sprint Planning 🏁]
+    B --> C[Development 💻]
+    C --> D[Code Review 🔍]
+    D --> E[Testing 🧪]
+    E --> F[Sprint Review 🎯]
+    F --> G[Retrospective 🔄]
+    G --> A
+
+```
+```mermaid
+flowchart LR
+    A[Code Commit 💾] --> B[Build 🏗️]
+    B --> C[Test 🧪]
+    C --> D[Staging Deploy 🖥️]
+    D --> E[Production Deploy 🚀]
+    E --> F[Monitoring 📊]
+    F --> A
+```
+
+```mermaid
+flowchart TD
+    A[Idea 💡] --> B[Requirement Gathering 📄]
+    B --> C[Design 🖌️]
+    C --> D[Implementation 💻]
+    D --> E[Testing 🧪]
+    E --> F[Release 🚀]
+    F --> G[Feedback 🔄]
+    G --> A
+```
+
+```mermaid
+graph LR
+    A[Low Impact / Low Effort] --> B[Do Later]
+    A --> C[Low Impact / High Effort] --> D[Consider]
+    A --> E[High Impact / Low Effort] --> F[Quick Win]
+    A --> G[High Impact / High Effort] --> H[Major Project]
+```
+
+```mermaid
+flowchart TD
+    A[Initial Contact 📞] --> B[Requirement Meeting 📋]
+    B --> C[Proposal & Quote 💼]
+    C --> D[Contract Signing ✍️]
+    D --> E[Project Kickoff 🚀]
+    E --> F[Delivery & Feedback 📦]
+
+```
+
 🤝 Connect With Us
 <p align="center"> <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="tel:+91XXXXXXXXXX"><img src="https://img.shields.io/badge/Phone-007BFF?style=for-the-badge&logo=phone&logoColor=white" /></a> <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://linkedin.com/in/yourlink"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://facebook.com/yourpage"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p>
 
